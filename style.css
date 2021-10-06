@@ -1,0 +1,7 @@
+.banner {
+  padding: 100px;
+}
+
+.banner.bg-lazy-loaded {
+  background-image: url('/images/banner.png');
+}
